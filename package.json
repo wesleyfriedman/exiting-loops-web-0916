@@ -1,0 +1,28 @@
+{
+  "name": "exiting-loops",
+  "version": "0.1.0",
+  "description": "Explore ways of exiting loops in JavaScript",
+  "engines": {
+    "node": "6.x",
+    "npm": "3.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R mocha-multi --reporter-options nyan=-,json=.results.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/learn-co-curriculum/exiting-loops.git"
+  },
+  "keywords": [
+    "javascript",
+    "flatiron",
+    "learn"
+  ],
+  "author": "pletcher",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/learn-co-curriculum/exiting-loops/issues"
+  },
+  "homepage": "https://github.com/learn-co-curriculum/exiting-loops#readme"
+}
