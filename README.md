@@ -9,6 +9,12 @@ Exiting Loops
 
 ## Introduction
 
+Imagine you're making a sandwich. (We're big fans of sandwiches here at the Flatiron School.) You're going through each ingredient, piling it onto some fresh bread, when suddenly, out of nowhere, you notice _worms_ on the spinach. You don't have to scrap the whole sandwich, but you're starting to get queasy and you want to stop going through the any subsequent ingredients while you clean up those worms.
+
+![worms](http://i.giphy.com/eGHGwNGGLT3gs.gif)
+
+In programmer speak, we want to _break out of the loop_!
+
 So far, we've been treating loops as things that we want to go the whole way through. But it's easy to imagine a case where we wouldn't want to loop through _every_ object in an iterable. What if we were only looking for one object, or if we didn't need to change every element but just those that matched certain criteria?
 
 That's where `break`, `continue`, and even the venerable `return` come in handy. Let's dive in.
