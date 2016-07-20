@@ -76,7 +76,7 @@ If we evaluate the above in console, we'll see that `notOne` is still equal to `
 function firstNotEqual(array, value) {
   for (let i = 0, l = array.length; i < l; i++) {
     debugger
-    if (array[i] === value) {
+    if (array[i] !== value) {
       return array[i]
     }
   }
@@ -140,3 +140,5 @@ Continue is particularly helpful when we need to apply a few different operation
 
 - [continue](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/continue)
 - [break](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/break)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/exiting-loops'>Exiting Loops</a> on Learn.co and start learning to code for free.</p>
