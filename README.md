@@ -9,7 +9,7 @@ Exiting Loops
 
 ## Introduction
 
-Imagine you're making a sandwich. (We're big fans of sandwiches here at the Flatiron School.) You're going through each ingredient, piling it onto some fresh bread, when suddenly, out of nowhere, you notice _worms_ on the spinach. You don't have to scrap the whole sandwich, but you're starting to get queasy and you want to stop going through the any subsequent ingredients while you clean up those worms.
+Imagine you're making a sandwich. (We're big fans of sandwiches here at the Flatiron School.) You're going through each ingredient, piling it onto some fresh bread, when suddenly, out of nowhere, you notice _worms_ on the spinach. You don't have to scrap the whole sandwich, but you're starting to get queasy and you want to stop going through the subsequent ingredients while you clean up those worms.
 
 ![worms](http://i.giphy.com/eGHGwNGGLT3gs.gif)
 
