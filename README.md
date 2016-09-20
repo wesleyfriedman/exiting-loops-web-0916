@@ -123,7 +123,7 @@ This is where we use `continue`!
 const scores = [3, 4, 10, 5, 11, 6]
 
 // increment all scores < 10
-for (let i = 0, l < scores.length; i < l; i++) {
+for (let i = 0, l = scores.length; i < l; i++) {
   if (scores[i] >= 10) {
     continue
   }
