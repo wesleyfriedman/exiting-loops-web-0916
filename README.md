@@ -1,6 +1,6 @@
 Exiting Loops
 ---
-
+<!-- Finished README -->
 ## Objectives
 
 1. Explain when to `break` out of a loop
